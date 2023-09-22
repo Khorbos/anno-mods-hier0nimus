@@ -83,59 +83,59 @@
     </Text>
     <Text>
       <GUID>1742100020</GUID>      <!-- Canteen (OW) - Building -->
-      <Text>Canteen</Text>
+      <Text>Mess</Text>
     </Text>
     <Text>
       <GUID>1742100021</GUID>      <!-- Canteen (OW) - Building - Description -->
-      <Text>Place where all military personnel gathers to eat.</Text>
+      <Text>Lieu où l'ensemble du personnel militaire se réunit pour manger.</Text>
     </Text>
     <Text>
       <GUID>1742100022</GUID>      <!-- Canteen (OW) - Product -->
-      <Text>Canteen</Text>
+      <Text>Mess</Text>
     </Text>
     <Text>
       <GUID>1742100023</GUID>      <!-- Canteen (OW) - Product - Description -->
-      <Text>Canteen need for all military personnel</Text>
+      <Text>Besoin d'un mess pour l'ensemble du personnel militaire</Text>
     </Text>
     <Text>
       <GUID>1742100024</GUID>
-      <Text>Military Warehouse</Text>
+      <Text>Entrepôt militaire</Text>
     </Text>
     <Text>
       <GUID>1742100025</GUID>
-      <Text>Warehouse special for military buildings. Needs military personnel to function.</Text>
+      <Text>Entrepôt militaire. Nécessite du personnel militaire pour fonctionner.</Text>
     </Text>
     <Text>
       <GUID>1742100026</GUID>
-      <Text>Military</Text>      <!-- Military Construction Category (OW) -->
+      <Text>Armée</Text>      <!-- Military Construction Category (OW) -->
     </Text>
     <Text>
       <GUID>1742100027</GUID>
-      <Text>Defenses</Text>      <!-- Defenses - Construction Menu (OW) -->
+      <Text>Défenses</Text>      <!-- Defenses - Construction Menu (OW) -->
     </Text>
     <Text>
       <GUID>1742100028</GUID>
-      <Text>Military Headquarters</Text>
+      <Text>Quartier général de l'Armée</Text>
     </Text>
     <Text>
       <GUID>1742100029</GUID>
-      <Text>Central military building where everything starts for the military personnel.</Text>
+      <Text>Bâtiment militaire central où tout commence pour une carrière de soldat.</Text>
     </Text>
     <Text>
       <GUID>1742100030</GUID>      <!-- Military Headquarters - Product -->
-      <Text>Military Headquarters</Text>
+      <Text>Quartier général de l'Armée</Text>
     </Text>
     <Text>
       <GUID>1742100031</GUID>      <!-- Military Headquarters - Product - Description -->
-      <Text>Military Headquarters need for all military personnel.</Text>
+      <Text>Besoin du quartier général de l'Armée pour l'ensemble du personnel militaire</Text>
     </Text>
     <Text>
       <GUID>1742100032</GUID>
-      <Text>Military Headquarters - Popup Header</Text>
+      <Text>Quartier général de l'Armée - En-tête de fenêtre contextuelle</Text>
     </Text>
     <Text>
       <GUID>1742100033</GUID>
-      <Text>Military Headquarters - Info Tip</Text>
+      <Text>Quartier général de l'Armée - Infobulle</Text>
     </Text>
     <Text>
       <GUID>1742100034</GUID>
@@ -143,27 +143,27 @@
     </Text>
     <Text>
       <GUID>1742100035</GUID>
-      <Text>Reduce consumption of consumption goods for military personnel.</Text>
+      <Text>Réduit la consommation de biens de consommation pour le personnel militaire.</Text>
     </Text>
     <Text>
       <GUID>1742100036</GUID>
-      <Text>Weapon efficiency</Text>
+      <Text>Inventaire de l'armement</Text>
     </Text>
     <Text>
       <GUID>1742100037</GUID>
-      <Text>Reduce consumption of weapons for military personnel.</Text>
+      <Text>Réduit la consommation d'armes pour le personnel militaire.</Text>
     </Text>
     <Text>
       <GUID>1742100038</GUID>
-      <Text>Equipment efficiency</Text>
+      <Text>Inventaire des équipements</Text>
     </Text>
     <Text>
       <GUID>1742100039</GUID>
-      <Text>Reduce consumption of equipment for military personnel.</Text>
+      <Text>Réduit la consommation d'équipements pour le personnel militaire.</Text>
     </Text>
     <Text>
       <GUID>1742100040</GUID>
-      <Text>Military Headquarters Radius</Text>
+      <Text>Rayon du quartier général de l'Armée</Text>
     </Text>
     <Text>
       <GUID>1742100041</GUID>
@@ -171,7 +171,7 @@
     </Text>
     <Text>
       <GUID>1742100042</GUID>
-      <Text>Reduce consumption of consumption goods for military personnel.</Text>      <!-- Military Headquarters - Rations - Buff - Description -->
+      <Text>« Rien de tel que des rations supplémentaires pour contenter l'estomac d'un soldat. »</Text>      <!-- Military Headquarters - Rations - Buff - Description -->
     </Text>
     <Text>
       <GUID>1742100043</GUID>      <!-- Military Headquarters - Rations - Infotip -->
@@ -179,59 +179,59 @@
     </Text>
     <Text>
       <GUID>1742100044</GUID>      <!-- Military Headquarters - Rations - Infotip - Description -->
-      <Text>Reduce consumption of consumption goods for military personnel.</Text>
+      <Text>« Rien de tel que des rations supplémentaires pour contenter l'estomac d'un soldat. »</Text>
     </Text>
     <Text>
       <GUID>1742100045</GUID>
-      <Text>All Military Production</Text>      <!-- ItemEffectTargetPool -->
+      <Text>Toutes les productions militaires</Text>      <!-- ItemEffectTargetPool -->
     </Text>
     <Text>
       <GUID>1742100046</GUID>      <!-- Military Headquarters - Weapon efficiency - Buff -->
-      <Text>Weapon efficiency</Text>
+      <Text>Inventaire de l'armement</Text>
     </Text>
     <Text>
       <GUID>1742100047</GUID>      <!-- Military Headquarters - Weapon efficiency - Buff - Description -->
-      <Text>Reduce consumption of weapons for military personnel.</Text>
+      <Text>« Si l'armurerie est correctement ordonnée, alors chaque soldat aura son propre fusil et ses balles. »</Text>
     </Text>
     <Text>
       <GUID>1742100048</GUID>      <!-- Military Headquarters - Weapon efficiency - Infotip -->
-      <Text>Weapon efficiency</Text>
+      <Text>Inventaire de l'armement</Text>
     </Text>
     <Text>
       <GUID>1742100049</GUID>      <!-- Military Headquarters - Weapon efficiency - Infotip - Description -->
-      <Text>Reduce consumption of weapons for military personnel.</Text>
+      <Text>« Si l'armurerie est correctement ordonnée, alors chaque soldat aura son propre fusil et ses balles. »</Text>
     </Text>
     <Text>
       <GUID>1742100050</GUID>      <!-- Military Headquarters - Equipment efficiency - Buff -->
-      <Text>Equipment efficiency</Text>
+      <Text>Inventaire de l'équipment</Text>
     </Text>
     <Text>
       <GUID>1742100051</GUID>      <!-- Military Headquarters - Equipment efficiency - Buff - Description -->
-      <Text>Reduce consumption of equipment for military personnel.</Text>
+      <Text>« Puisque les soldats sont sous-occupés, laissez les doncs ranger les entrepôts. Ils risquent de tomber sur quelques caisses utiles. »</Text>
     </Text>
     <Text>
       <GUID>1742100052</GUID>      <!-- Military Headquarters - Equipment efficiency - Infotip -->
-      <Text>Equipment efficiency</Text>
+      <Text>Inventaire de l'équipment</Text>
     </Text>
     <Text>
       <GUID>1742100053</GUID>      <!-- Military Headquarters - Equipment efficiency - Infotip - Description -->
-      <Text>Reduce consumption of equipment for military personnel.</Text>
+      <Text>« Puisque les soldats sont sous-occupés, laissez les doncs ranger les entrepôts. Ils risquent de tomber sur quelques caisses utiles. »</Text>
     </Text>
     <Text>
       <GUID>1742100054</GUID>
-      <Text>Paper Factory</Text>
+      <Text>Usine de papier</Text>
     </Text>
     <Text>
       <GUID>1742100055</GUID>
-      <Text>Producing paper from wood.</Text>
+      <Text>Produit du papier à partir de bois.</Text>
     </Text>
     <Text>
       <GUID>1742100056</GUID>
-      <Text>Cigarettes Factory</Text>
+      <Text>Usine de cigarettes</Text>
     </Text>
     <Text>
       <GUID>1742100057</GUID>
-      <Text>Producing cigarettes from paper and hops.</Text>
+      <Text>Produit des cigarettes à partir de papier et de houblon.</Text>
     </Text>
     <Text>
       <GUID>1742100058</GUID>      <!-- Product -->
@@ -239,7 +239,7 @@
     </Text>
     <Text>
       <GUID>1742100059</GUID>
-      <Text>Unhealthy but loved by military personnel.</Text>
+      <Text>Mauvais pour la santé mais apprécié du personnel militaire.</Text>
     </Text>
     <Text>
       <GUID>1742100060</GUID>      <!-- Cigarettes - Menu Production Chain -->
@@ -247,103 +247,103 @@
     </Text>
     <Text>
       <GUID>1742100061</GUID>      <!-- Cigarettes - Menu Production Chain - Description -->
-      <Text>Produces cigarettes</Text>
+      <Text>Produit des cigarettes</Text>
     </Text>
     <Text>
       <GUID>1742100062</GUID>      <!-- Military Uniform Factory - Building -->
-      <Text>Military Uniform Factory</Text>
+      <Text>Usine d'uniformes militaires</Text>
     </Text>
     <Text>
       <GUID>1742100063</GUID>      <!-- Military Uniform Factory - Building - Description -->
-      <Text>Producing Military Uniforms from wool and iron.</Text>
+      <Text>Produit des uniformes militaires à partir de laine et de fer.</Text>
     </Text>
     <Text>
       <GUID>1742100064</GUID>      <!-- Military Uniforms - Product -->
-      <Text>Military Uniforms</Text>
+      <Text>Uniformes militaires</Text>
     </Text>
     <Text>
       <GUID>1742100065</GUID>
-      <Text>Keeping the military personnel warm in the winter and well, not so cool in the summer.</Text>
+      <Text>Garde le personnel militaire au chaud en hiver, moins en été.</Text>
     </Text>
     <Text>
       <GUID>1742100066</GUID>      <!-- Military Uniforms - Menu Production Chain -->
-      <Text>Military Uniforms</Text>
+      <Text>Uniformes militaires</Text>
     </Text>
     <Text>
       <GUID>1742100067</GUID>      <!-- Military Uniforms - Menu Production Chain - Description -->
-      <Text>Produces Military Uniforms</Text>
+      <Text>Produit des uniformes militaires</Text>
     </Text>
     <Text>
       <GUID>1742100068</GUID>
-      <Text>Sleeping Bag Factory</Text>      <!-- Sleeping Bag Factory (OW) - Building -->
+      <Text>Usine de sacs de couchage</Text>      <!-- Sleeping Bag Factory (OW) - Building -->
     </Text>
     <Text>
       <GUID>1742100069</GUID>
-      <Text>Producing Sleeping Bag from wool, cotton fabric and fur.</Text>
+      <Text>Produit des sacs de couchage à partir de laine, de coton et de fourrure.</Text>
     </Text>
     <Text>
       <GUID>1742100070</GUID>      <!-- Sleeping Bag (OW) - Menu Production Chain -->
-      <Text>Sleeping Bags</Text>
+      <Text>Sacs de couchage</Text>
     </Text>
     <Text>
       <GUID>1742100071</GUID>      <!-- Sleeping Bags - Menu Production Chain - Description -->
-      <Text>Produces Sleeping Bags</Text>
+      <Text>Produit des sacs de couchage</Text>
     </Text>
     <Text>
       <GUID>1742100072</GUID>      <!-- Industrial Lubricant - Menu Production Chain -->
-      <Text>Industrial Lubricant</Text>
+      <Text>Lubrifiant industriel</Text>
     </Text>
     <Text>
       <GUID>1742100073</GUID>      <!-- Industrial Lubricant - Menu Production Chain - Description -->
-      <Text>Produces Industrial Lubricant</Text>
+      <Text>Produit du lubrifiant industriel</Text>
     </Text>
     <Text>
       <GUID>1742100074</GUID>      <!-- Pamphlets OW - Menu Production Chain -->
-      <Text>Pamphlets</Text>
+      <Text>Prospectus</Text>
     </Text>
     <Text>
       <GUID>1742100075</GUID>      <!-- Pamphlets OW - Menu Production Chain - Description -->
-      <Text>Produces Pamphlets</Text>
+      <Text>Produit des prospectus</Text>
     </Text>
     <Text>
       <GUID>1742100076</GUID>      <!-- Cables OW - Menu Production Chain -->
-      <Text>Cables</Text>
+      <Text>Câbles</Text>
     </Text>
     <Text>
       <GUID>1742100077</GUID>      <!-- Cables OW - Menu Production Chain - Description -->
-      <Text>Produces Cables</Text>
+      <Text>Produit des câbles</Text>
     </Text>
     <Text>
       <GUID>1742100078</GUID>      <!-- Recreation Centre - Building -->
-      <Text>Recreation Centre</Text>
+      <Text>Taverne militaire</Text>
     </Text>
     <Text>
       <GUID>1742100079</GUID>      <!-- Recreation Centre - Building - Description -->
-      <Text>Gathering place for military personnel to do leisure activities. Gives buffs to the military personnel based on the input good.</Text>
+      <Text>Dispense un service public à vos militaires</Text>
     </Text>
     <Text>
       <GUID>1742100080</GUID>      <!-- Recreation Centre - Product -->
-      <Text>Recreation Centre</Text>
+      <Text>Taverne militaire</Text>
     </Text>
     <Text>
       <GUID>1742100081</GUID>      <!-- Recreation Centre - Product - Description -->
-      <Text>Recreation Centre need for all military personnel.</Text>
+      <Text>Pub pour l'ensemble du personnel militaire.</Text>
     </Text>
     <Text>
       <GUID>1742100082</GUID>      <!-- Military Academy - Building -->
-      <Text>Military Academy</Text>
+      <Text>Académie militaire</Text>
     </Text>
     <Text>
       <GUID>1742100083</GUID>      <!-- Military Academy - Building - Description -->
-      <Text>Building that provides the public service need for military personnel. Also provides global buffs.</Text>
+      <Text>Bâtiment qui répond aux besoins de l'armée en matière d'éducation militaire.</Text>
     </Text>
     <Text>
       <GUID>1742100084</GUID>      <!-- Military Academy - Product -->
-      <Text>Military Academy</Text>
+      <Text>Académie militaire</Text>
     </Text>
     <Text>
       <GUID>1742100085</GUID>      <!-- Military Academy - Product - Description -->
-      <Text>Military Academy need for military personnel.</Text>
+      <Text>Bâtiment qui répond aux besoins de l'armée en matière d'éducation militaire.</Text>
     </Text>
     <Text>
       <GUID>1742100086</GUID>      <!-- Ship Production - Itemset -->
@@ -655,19 +655,19 @@
     </Text>
     <Text>
       <GUID>1742100163</GUID>      <!-- Open Pit Iron Mine - Building -->
-      <Text>Open Pit Iron Mine</Text>
+      <Text>Mine de fer à ciel ouvert</Text>
     </Text>
     <Text>
       <GUID>1742100164</GUID>      <!-- Open Pit Iron Mine - Building - Description -->
-      <Text>Open pit where Iron ore is excavated. All work is done by soldiers workforce.</Text>
+      <Text>Fosse à ciel ouvert où le minerai de fer est extrait. Tous les travaux sont effectués par des soldats.</Text>
     </Text>
     <Text>
       <GUID>1742100165</GUID>      <!-- Open Pit Coal Mine - Building -->
-      <Text>Open Pit Coal Mine</Text>
+      <Text>Mine de charbon à ciel ouvert</Text>
     </Text>
     <Text>
       <GUID>1742100166</GUID>      <!-- Open Pit Coal Mine - Building - Description -->
-      <Text>Open pit where Coal ore is excavated. All work is done by soldiers workforce.</Text>
+      <Text>Fosse à ciel ouvert où le charbon est extrait. Tous les travaux sont effectués par des soldats.</Text>
     </Text>
     <Text>
       <GUID>1742100167</GUID>      <!-- Pirate Naval Architect Blueprints - Item -->
@@ -775,71 +775,71 @@
     </Text>
     <Text>
       <GUID>1742100183</GUID>      <!-- Cardgames Factory - Building -->
-      <Text>Cardgames Factory</Text>
+      <Text>Usine de jeux de cartes</Text>
     </Text>
     <Text>
       <GUID>1742100184</GUID>      <!-- Cardgames Factory - Building - Description -->
-      <Text>Producing cardgames from paper, wood and quartz sand.</Text>
+      <Text>Produit des marchandises</Text>
     </Text>
     <Text>
       <GUID>1742100185</GUID>      <!-- Cardgames - Product -->
-      <Text>Cardgames</Text>
+      <Text>Jeux de cartes</Text>
     </Text>
     <Text>
       <GUID>1742100186</GUID>      <!-- Cardgames - Product - Description -->
-      <Text>The best time to pass some sparetime.</Text>
+      <Text>Le meilleur moment pour passer du temps libre.</Text>
     </Text>
     <Text>
       <GUID>1742100187</GUID>      <!-- Cardgames - Menu Production Chain -->
-      <Text>Cardgames</Text>
+      <Text>Jeux de cartes</Text>
     </Text>
     <Text>
       <GUID>1742100188</GUID>      <!-- Cardgames - Menu Production Chain - Description -->
-      <Text>Produces cardgames</Text>
+      <Text>Produit des jeux de cartes</Text>
     </Text>
     <Text>
       <GUID>1742100189</GUID>      <!-- Military Training Complex - Building -->
-      <Text>Military Training Complex</Text>
+      <Text>Stand de tir militaire</Text>
     </Text>
     <Text>
       <GUID>1742100190</GUID>      <!-- Military Training Complex - Building - Description -->
-      <Text>Public service for soldiers where they train and learn how to shoot.</Text>
+      <Text>Service public pour les soldats où ils apprennent et s'entraînent à tirer.</Text>
     </Text>
     <Text>
       <GUID>1742100191</GUID>      <!-- Military Training Complex - Product -->
-      <Text>Military Training Complex</Text>
+      <Text>Stand de tir militaire</Text>
     </Text>
     <Text>
       <GUID>1742100192</GUID>      <!-- Military Training Complex - Product - Description -->
-      <Text>Public service for soldiers where they train and learn how to shoot.</Text>
+      <Text>Service public pour les soldats où ils apprennent et s'entraînent à tirer.</Text>
     </Text>
     <Text>
       <GUID>1742100193</GUID>      <!-- Military Training Complex - Menu Production Chain -->
-      <Text>Military Training Complex</Text>
+      <Text>Stand de tir militaire</Text>
     </Text>
     <Text>
       <GUID>1742100194</GUID>      <!-- Military Training Complex - Menu Production Chain - Description -->
-      <Text>Public service for soldiers where they train and learn how to shoot.</Text>
+      <Text>Service public pour les soldats où ils apprennent et s'entraînent à tirer.</Text>
     </Text>
     <Text>
       <GUID>1742100195</GUID>      <!-- Ammunition Factory Empty - Building -->
-      <Text>Ammunition Factory</Text>
+      <Text>Usine de munitions</Text>
     </Text>
     <Text>
       <GUID>1742100196</GUID>      <!-- Ammunition Factory - Building - Description -->
-      <Text>Multifactory producing Basic Ammunition and Bombs based on recipe list</Text>
+      <Text>Transforme diverses marchandises primaires en munitions.</Text>
     </Text>
     <Text>
       <GUID>1742100197</GUID>      <!-- Ammunition - Recipe - List -->
-      <Text>Ammunition</Text>
+      <Text>Munition</Text>
     </Text>
     <Text>
       <GUID>1742100198</GUID>      <!-- Ammunition - Recipe - List - Description -->
-      <Text>Recipelist for the Ammunition factory producing Basic Ammunition and Bombs.</Text>
+      <Text>Fabriquez une catégorie de munition que vos défenses portuaires pourront utiliser. Sélectionnez-en une dans la liste, puis cliquez sur Sélectionner une formule pour commencer.</Text>
     </Text>
     <Text>
       <GUID>1742100199</GUID>      <!-- Ammunition Factory Basic Ammunition - Building -->
-      <Text>Basic Ammunition Factory</Text>
+      <Text>Usine de munitions</Text>
     </Text>
     <Text>
       <GUID>1742100200</GUID>      <!-- Ammunition Factory Basic Ammunition - Building - Description -->
@@ -847,115 +847,115 @@
     </Text>
     <Text>
       <GUID>1742100201</GUID>      <!-- Ammunition Factory Bombs - Building -->
-      <Text>Bombs Factory</Text>
+      <Text>Usine de bombes</Text>
     </Text>
     <Text>
       <GUID>1742100202</GUID>      <!-- Ammunition Factory Bombs - Building - Description -->
-      <Text>Multifactory producing Bombs</Text>
+      <Text>Transforme diverses marchandises primaires en bombes.</Text>
     </Text>
     <Text>
       <GUID>1742100203</GUID>      <!-- Basic Ammunition - Product -->
-      <Text>Basic Ammunition</Text>
+      <Text>Munition</Text>
     </Text>
     <Text>
       <GUID>1742100204</GUID>      <!-- Basic Ammunition - Product - Description -->
-      <Text>Basic Ammunition used by military force</Text>
+      <Text>Munitions standard utilisées par les forces militaires</Text>
     </Text>
     <Text>
       <GUID>1742100205</GUID>      <!-- Basic Ammunition - Recipe -->
-      <Text>Basic Ammunition</Text>
+      <Text>Munition</Text>
     </Text>
     <Text>
       <GUID>1742100206</GUID>      <!-- Basic Ammunition - Recipe - Description -->
-      <Text>Recipe for the Basic Ammunition factory producing Basic Ammunition.</Text>
+      <Text>De nombreuses cartouches destinées à vos ennemis.</Text>
     </Text>
     <Text>
       <GUID>1742100207</GUID>      <!-- Bombs Ammunition - Recipe -->
-      <Text>Bombs Ammunition</Text>
+      <Text>Bombes</Text>
     </Text>
     <Text>
       <GUID>1742100208</GUID>      <!-- Bombs - Recipe - Description -->
-      <Text>Recipe for the Bombs Ammunition factory producing Bombs Ammunition.</Text>
+      <Text>Un symbole de modernité équivalent à la locomotive ou le gratte-ciel.</Text>
     </Text>
     <Text>
       <GUID>1742100209</GUID>      <!-- Stable - Building -->
-      <Text>Stable</Text>
+      <Text>Écurie</Text>
     </Text>
     <Text>
       <GUID>1742100210</GUID>      <!-- Stable - Building - Description -->
-      <Text>Breeding horses for military officers.</Text>
+      <Text>Élevage de chevaux pour la cavalerie militaire.</Text>
     </Text>
     <Text>
       <GUID>1742100211</GUID>      <!-- Horses - Product -->
-      <Text>Horses</Text>
+      <Text>Chevaux</Text>
     </Text>
     <Text>
       <GUID>1742100212</GUID>      <!-- Horses - Product - Description -->
-      <Text>Noble friends from the military officers</Text>
+      <Text>Noble ami des officiers militaires de cavalerie.</Text>
     </Text>
     <Text>
       <GUID>1742100213</GUID>      <!-- Stable - Farmfield -->
-      <Text>Horse Pen</Text>
+      <Text>Enclos à chevaux</Text>
     </Text>
     <Text>
       <GUID>1742100214</GUID>      <!-- Stable - Farmfield - Description -->
-      <Text>Breeding space for horses.</Text>
+      <Text>Espace d'élevage pour chevaux.</Text>
     </Text>
     <Text>
       <GUID>1742100215</GUID>      <!-- Mounted Guns - Defense -->
-      <Text>Mounted Guns</Text>
+      <Text>Tourelle d'artillerie</Text>
     </Text>
     <Text>
       <GUID>1742100216</GUID>      <!-- Cannon Tower - Building -->
-      <Text>Cannon Tower</Text>
+      <Text>Tour à canon</Text>
     </Text>
     <Text>
       <GUID>1742100217</GUID>      <!-- Flak Emplacement - Building -->
-      <Text>Flak Emplacement</Text>
+      <Text>Emplacement de batterie AA</Text>
     </Text>
     <Text>
       <GUID>1742100218</GUID>      <!-- Fire Tower - Building -->
-      <Text>Fire Tower</Text>
+      <Text>Tour à feu</Text>
     </Text>
     <Text>
       <GUID>1742100219</GUID>      <!-- Armor Pierce Tower - Building -->
-      <Text>Armor Pierce Tower</Text>
+      <Text>Arme perce-blindage</Text>
     </Text>
     <Text>
       <GUID>1742100220</GUID>      <!-- Monster Gun - Building -->
-      <Text>Monster Gun</Text>
+      <Text>Grosse Bertha</Text>
     </Text>
     <Text>
       <GUID>1742100221</GUID>      <!-- Flak Emplacement (OW Land) - Building -->
-      <Text>Flak Emplacement (Land)</Text>
+      <Text>Emplacement de batterie AA (Terrestre)</Text>
     </Text>
     <Text>
       <GUID>1742100222</GUID>      <!-- Basic Ammunition Debuff - Buff -->
-      <Text>No Basic Ammunition</Text>
+      <Text>Pas de munition</Text>
     </Text>
     <Text>
       <GUID>1742100223</GUID>      <!-- Ammunition Debuff - Buff - Description -->
-      <Text>No Basic Ammunition is provided. Make an ammunition depot in the surroundings to provide Basic Ammunition to this building.</Text>
+      <Text>Pas de munitions. Construisez un dépôt de munitions dans les alentours pour ravitailler ce bâtiment.</Text>
     </Text>
     <Text>
       <GUID>1742100224</GUID>      <!-- Basic Ammunition Buff - Buff -->
-      <Text>Providing Basic Ammunition</Text>
+      <Text>Ravitaillement en munitions</Text>
     </Text>
     <Text>
       <GUID>1742100225</GUID>      <!-- Basic Ammunition Buff - Buff - Description -->
-      <Text>Providing Basic Ammunition to the defense buildings so they can actually work.</Text>
+      <Text>Ravitaillement en munitions.</Text>
     </Text>
     <Text>
       <GUID>1742100226</GUID>      <!-- Basic Ammunition Depot - Building -->
-      <Text>Basic Ammunition Depot</Text>
+      <Text>Dépôt de munitions</Text>
     </Text>
     <Text>
       <GUID>1742100227</GUID>      <!-- Basic Ammunition Depot - Building - Description -->
-      <Text>Centralised depot for Basic  Amunitions to provide them to the defense buildings to make sure they can actually shoot.</Text>
+      <Text>Dépôt centralisé de munitions destinées aux tourelles de défenses.</Text>
     </Text>
     <Text>
       <GUID>1742100228</GUID>      <!-- All Defense Buildings - ItemEffectTargetPool -->
-      <Text>All Defense Buildings</Text>
+      <Text>Tous les bâtiments de défenses</Text>
     </Text>
     <Text>
       <GUID>1742100229</GUID>      <!-- James Fondrick - Item -->
@@ -1027,27 +1027,27 @@
     </Text>
     <Text>
       <GUID>1742100246</GUID>      <!-- Ammunition Factory Shell Ammunition - Building -->
-      <Text>Shell Ammunition Factory</Text>
+      <Text>Usine de munitions : Obus</Text>
     </Text>
     <Text>
       <GUID>1742100247</GUID>      <!-- Ammunition Factory Shell Ammunition - Building - Description -->
-      <Text>Multifactory producing Shell Ammunition</Text>
+      <Text>Transforme diverses marchandises primaires en obus</Text>
     </Text>
     <Text>
       <GUID>1742100248</GUID>      <!-- Shell Ammunition - Product -->
-      <Text>Shell Ammunition</Text>
+      <Text>Obus</Text>
     </Text>
     <Text>
       <GUID>1742100249</GUID>      <!-- Shell Ammunition - Product - Description -->
-      <Text>Shell Ammunition used by military force</Text>
+      <Text>Obus standard utilisés par les forces militaires</Text>
     </Text>
     <Text>
       <GUID>1742100250</GUID>      <!-- Shell Ammunition - Recipe -->
-      <Text>Shell Ammunition</Text>
+      <Text>Obus</Text>
     </Text>
     <Text>
       <GUID>1742100251</GUID>      <!-- Shell Ammunition - Recipe - Description -->
-      <Text>Recipe for the Shell Ammunition factory producing Shell Ammunition.</Text>
+      <Text>Des munitions dévastatrices destinées à vos ennemis.</Text>
     </Text>
     <Text>
       <GUID>1742100252</GUID>      <!-- All Basic Ammunition Defense Buildings - ItemEffectTargetPool -->
@@ -1059,123 +1059,123 @@
     </Text>
     <Text>
       <GUID>1742100254</GUID>      <!-- Shell Ammunition Debuff - Buff -->
-      <Text>No Shell Ammunition</Text>
+      <Text>Pas d'obus</Text>
     </Text>
     <Text>
       <GUID>1742100255</GUID>      <!-- Shell Ammunition Debuff - Buff - Description -->
-      <Text>No Shell Ammunition is provided. Make an ammunition depot in the surroundings to provide Shell Ammunition to this building.</Text>
+      <Text>Pas d'obus. Construisez un dépôt d'obus dans les alentours pour ravitailler ce bâtiment.</Text>
     </Text>
     <Text>
       <GUID>1742100256</GUID>      <!-- Shell Ammunition Buff - Buff -->
-      <Text>Providing Shell Ammunition</Text>
+      <Text>Ravitaillement en obus</Text>
     </Text>
     <Text>
       <GUID>1742100257</GUID>      <!-- Shell Ammunition Buff - Buff - Description -->
-      <Text>Providing Shell Ammunition to the defense buildings so they can actually work.</Text>
+      <Text>Ravitaillement en obus.</Text>
     </Text>
     <Text>
       <GUID>1742100258</GUID>      <!-- Gas Ammunition Debuff - Buff -->
-      <Text>No Gas Ammunition</Text>
+      <Text>Pas d'agent chimique</Text>
     </Text>
     <Text>
       <GUID>1742100259</GUID>      <!-- Gas Ammunition Debuff - Buff - Description -->
-      <Text>No Gas Ammunition is provided. Make an ammunition depot in the surroundings to provide Gas Ammunition to this building.</Text>
+      <Text>Pas d'agent chimique. Construisez un dépôt d'agents chimiques dans les alentours pour ravitailler ce bâtiment.</Text>
     </Text>
     <Text>
       <GUID>1742100260</GUID>      <!-- Gas Ammunition Buff - Buff -->
-      <Text>Providing Gas Ammunition</Text>
+      <Text>Ravitaillement en agent chimique</Text>
     </Text>
     <Text>
       <GUID>1742100261</GUID>      <!-- Gas Ammunition Buff - Buff - Description -->
-      <Text>Providing Gas Ammunition to the defense buildings so they can actually work.</Text>
+      <Text>Ravitaillement en agent chimique.</Text>
     </Text>
     <Text>
       <GUID>1742100262</GUID>      <!-- Bombs Ammunition Debuff - Buff -->
-      <Text>No Bombs Ammunition</Text>
+      <Text>Pas de bombe</Text>
     </Text>
     <Text>
       <GUID>1742100263</GUID>      <!-- Bombs Ammunition Debuff - Buff - Description -->
-      <Text>No Bombs Ammunition is provided. Make an ammunition depot in the surroundings to provide Bombs Ammunition to this building.</Text>
+      <Text>Pas de bombe. Construisez un dépôt de bombes dans les alentours pour ravitailler ce bâtiment.</Text>
     </Text>
     <Text>
       <GUID>1742100264</GUID>      <!-- Bombs Ammunition Buff - Buff -->
-      <Text>Providing Bombs Ammunition</Text>
+      <Text>Ravitaillement en bombes</Text>
     </Text>
     <Text>
       <GUID>1742100265</GUID>      <!-- Bombs Ammunition Buff - Buff - Description -->
-      <Text>Providing Bombs Ammunition to the defense buildings so they can actually work.</Text>
+      <Text>Ravitaillement en bombes.</Text>
     </Text>
     <Text>
       <GUID>1742100266</GUID>      <!-- Shell Ammunition Depot - Building -->
-      <Text>Shell Ammunition Depot</Text>
+      <Text>Dépôt de munitions : Obus</Text>
     </Text>
     <Text>
       <GUID>1742100267</GUID>      <!-- Shell Ammunition Depot - Building - Description -->
-      <Text>Centralised depot for Shell Amunitions to provide them to the defense buildings to make sure they can actually shoot.</Text>
+      <Text>Dépôt centralisé de munitions destinées aux tourelles de défenses.</Text>
     </Text>
     <Text>
       <GUID>1742100268</GUID>      <!-- Gas Ammunition Depot - Building -->
-      <Text>Gas Ammunition Depot</Text>
+      <Text>Dépôt de munitions : Gaz</Text>
     </Text>
     <Text>
       <GUID>1742100269</GUID>      <!-- Gas Ammunition Depot - Building - Description -->
-      <Text>Centralised depot for Gas Amunitions to provide them to the defense buildings to make sure they can actually shoot.</Text>
+      <Text>Dépôt centralisé de munitions destinées aux tours à feux.</Text>
     </Text>
     <Text>
       <GUID>1742100270</GUID>      <!-- Bombs Ammunition Depot - Building -->
-      <Text>Bombs Ammunition Depot</Text>
+      <Text>Dépôt de munitions : Bombes</Text>
     </Text>
     <Text>
       <GUID>1742100271</GUID>      <!-- Bombs Ammunition Depot - Building - Description -->
-      <Text>Centralised depot for Bombs Amunitions to provide them to the defense buildings to make sure they can actually shoot.</Text>
+      <Text>Dépôt centralisé de munitions destinées aux tourelles de défenses.</Text>
     </Text>
     <Text>
       <GUID>1742100272</GUID>      <!-- Ammunition Depot (Empty) - Building -->
-      <Text>Ammunition Depot</Text>
+      <Text>Dépôt de munitions</Text>
     </Text>
     <Text>
       <GUID>1742100273</GUID>      <!-- Ammunition Depot (Empty) - Building - Description -->
-      <Text>Centralised depot for Amunitions to provide them to the defense buildings to make sure they can actually shoot.</Text>
+      <Text>Dépôt centralisé de munitions destinées aux tourelles de défenses.</Text>
     </Text>
     <Text>
       <GUID>1742100274</GUID>      <!-- Ammunition Depot - Recipe - List -->
-      <Text>Ammunition Depot</Text>
+      <Text>Ravitaillement en munitions</Text>
     </Text>
     <Text>
       <GUID>1742100275</GUID>      <!-- Ammunition Depot - Recipe - List - Description -->
-      <Text>Recipelist for the Ammunition depot processing Basic Ammunition, Shells, Gas and Bombs.</Text>
+      <Text>Entreposez vos munitions dans ce dépôt pour permettre le bon fonctionnement de vos bâtiments de défense. Sélectionnez-en une dans la liste pour ravitailler vos bâtiments.</Text>
     </Text>
     <Text>
       <GUID>1742100276</GUID>      <!-- Basic Ammunition Depot - Recipe -->
-      <Text>Basic Ammunition Depot</Text>
+      <Text>Ravitaillement en munitions</Text>
     </Text>
     <Text>
       <GUID>1742100277</GUID>      <!-- Basic Ammunition Depot - Recipe - Description -->
-      <Text>Recipe for the Basic Ammunition Depot processing Basic Ammunition.</Text>
+      <Text>Dépôt centralisé de munitions destinées aux tourelles de défenses.</Text>
     </Text>
     <Text>
       <GUID>1742100278</GUID>      <!-- Shell Ammunition Depot - Recipe -->
-      <Text>Shell Ammunition Depot</Text>
+      <Text>Ravitaillement en obus</Text>
     </Text>
     <Text>
       <GUID>1742100279</GUID>      <!-- Shell Ammunition Depot - Recipe - Description -->
-      <Text>Recipe for the Shell Ammunition Depot processng Shell Ammunition.</Text>
+      <Text>Dépôt centralisé d'obus destinées aux tourelles de défenses.</Text>
     </Text>
     <Text>
       <GUID>1742100280</GUID>      <!-- Gas Ammunition Depot - Recipe -->
-      <Text>Gas Ammunition Depot</Text>
+      <Text>Ravitaillement en agent chimique</Text>
     </Text>
     <Text>
       <GUID>1742100281</GUID>      <!-- Gas Ammunition Depot - Recipe - Description -->
-      <Text>Recipe for the Gas Ammunition depot processing Gas Ammunition.</Text>
+      <Text>Dépôt centralisé d'agents chimiques destinés aux tour à feux.</Text>
     </Text>
     <Text>
       <GUID>1742100282</GUID>      <!-- Bombs Ammunition Depot - Recipe -->
-      <Text>Bombs Ammunition Depot</Text>
+      <Text>Ravitaillement en bombes</Text>
     </Text>
     <Text>
       <GUID>1742100283</GUID>      <!-- Basic Ammunition Depot - Recipe - Description -->
-      <Text>Recipe for the Bombs Ammunition Depot processing Bombs Ammunition.</Text>
+      <Text>Dépôt centralisé de bombes destinées aux tourelles de défenses.</Text>
     </Text>
     <Text>
       <GUID>1742100284</GUID>      <!-- Fort - Defense - Building -->
@@ -1183,83 +1183,83 @@
     </Text>
     <Text>
       <GUID>1742100285</GUID>      <!-- Fort - Defense - Building - Description -->
-      <Text>Big defense building, build on the coast to protect the island.</Text>
+      <Text>Bâtiment de défense imposant, à bâtir sur la côte pour protéger l'île.</Text>
     </Text>
     <Text>
       <GUID>1742100286</GUID>      <!-- Ammunition (Global fake) - Product -->
-      <Text>Ammunition</Text>
+      <Text>Munition</Text>
     </Text>
     <Text>
       <GUID>1742100287</GUID>      <!-- Dung Collector - Building -->
-      <Text>Dung Collector</Text>
+      <Text>Collecteur de fumier</Text>
     </Text>
     <Text>
       <GUID>1742100288</GUID>      <!-- Dung Collector - Building - Description -->
-      <Text>Collects dung from the surrounding animal farms.</Text>
+      <Text>Collecte le fumier à partir des fermes d'animaux avoisinantes.</Text>
     </Text>
     <Text>
       <GUID>1742100289</GUID>      <!-- Nitrary - Building -->
-      <Text>Nitrary</Text>
+      <Text>Salpêtrière</Text>
     </Text>
     <Text>
       <GUID>1742100290</GUID>      <!-- Nitrary - Building - Description -->
-      <Text>Farm building that produces saltpetre from saltpetre beds that processes wood and dung.</Text>
+      <Text>Produit des marchandises.</Text>
     </Text>
     <Text>
       <GUID>1742100291</GUID>      <!-- Gunpowder Factory - Building -->
-      <Text>Gunpowder Factory</Text>
+      <Text>Usine de poudre à canon</Text>
     </Text>
     <Text>
       <GUID>1742100292</GUID>      <!-- Gunpowder Factory - Building - Description -->
-      <Text>Factory that processes Gunpowder, ready to use for ammunition.</Text>
+      <Text>Produit des marchandises.</Text>
     </Text>
     <Text>
       <GUID>1742100293</GUID>      <!-- Gunpowder - Product -->
-      <Text>Gunpowder</Text>
+      <Text>Poudre à canon</Text>
     </Text>
     <Text>
       <GUID>1742100294</GUID>      <!-- Gunpowder - Product - Description -->
-      <Text>Explosive powder used in a variety of ammunitions.</Text>
+      <Text>Poudre explosive utilisée dans de nombreuses munitions.</Text>
     </Text>
     <Text>
       <GUID>1742100295</GUID>      <!-- Collecting Dung - Buff -->
-      <Text>Collecting Dung</Text>
+      <Text>Collecte de fumier</Text>
     </Text>
     <Text>
       <GUID>1742100296</GUID>      <!-- Collecting Dung - Buff - Description -->
-      <Text>Collects dung from the surrounding animal farms.</Text>
+      <Text>Collecte le fumier à partir des fermes d'animaux avoisinantes.</Text>
     </Text>
     <Text>
       <GUID>1742100297</GUID>      <!-- Gunpowder - Menu Production Chain -->
-      <Text>Gunpowder</Text>
+      <Text>Poudre à canon</Text>
     </Text>
     <Text>
       <GUID>1742100298</GUID>      <!-- Gunpowder - Menu Production Chain - Description -->
-      <Text>Produces gunpowder</Text>
+      <Text>Produit de la poudre à canon</Text>
     </Text>
     <Text>
       <GUID>1742100299</GUID>      <!-- Basic Ammunition - Menu Production Chain -->
-      <Text>Basic Ammunition</Text>
+      <Text>Munitions</Text>
     </Text>
     <Text>
       <GUID>1742100300</GUID>      <!-- Basic Ammunition - Menu Production Chain - Description -->
-      <Text>Produces Basic Ammunition</Text>
+      <Text>Produit des munitions</Text>
     </Text>
     <Text>
       <GUID>1742100301</GUID>      <!-- Shell Ammunition - Menu Production Chain -->
-      <Text>Shell Ammunition</Text>
+      <Text>Obus</Text>
     </Text>
     <Text>
       <GUID>1742100302</GUID>      <!-- Shell Ammunition - Menu Production Chain - Description -->
-      <Text>Produces Shell Ammunition</Text>
+      <Text>Produit des obus</Text>
     </Text>
     <Text>
       <GUID></GUID>      <!-- Bombs Ammunition - Menu Production Chain -->
-      <Text>Bombs Ammunition</Text>
+      <Text>Bombes</Text>
     </Text>
     <Text>
       <GUID>1742100304</GUID>      <!-- Bombs Ammunition - Menu Production Chain - Description -->
-      <Text>Produces Bombs Ammunition</Text>
+      <Text>Produit des bombes</Text>
     </Text>
     <Text>
       <GUID>1742100305</GUID>      <!-- All Airship Shipyards - ItemEffectTargetPool -->
@@ -1359,19 +1359,19 @@
     </Text>
     <Text>
       <GUID>1742100329</GUID>      <!-- Heated Military Uniforms - Product -->
-      <Text>Heated Military Uniforms</Text>
+      <Text>Vestes militaires</Text>
     </Text>
     <Text>
       <GUID>1742100330</GUID>      <!-- Heated Military Uniforms - Product - Description -->
-      <Text>Military Uniforms that keep the soldiers warm in the cold Arctic.</Text>
+      <Text>Des vestes militaires qui gardent les soldats au chaud dans le froid de l'Arctique.</Text>
     </Text>
     <Text>
       <GUID>1742100331</GUID>      <!-- Heated Military Uniform Factory - Building -->
-      <Text>Heated Military Uniform Factory</Text>
+      <Text>Usine de vestes militaires</Text>
     </Text>
     <Text>
       <GUID>1742100332</GUID>      <!-- Heated Military Uniform Factory - Building - Description -->
-      <Text>Producing Heated Military Uniforms from wool, fur and iron.</Text>
+      <Text>Produit des vestes militaires à partir de laine, de fourrure et de fer.</Text>
     </Text>
     <Text>
       <GUID>1742100333</GUID>      <!-- New World Soldiers Residence - Encampment - Building -->
@@ -1435,11 +1435,11 @@
     </Text>
     <Text>
       <GUID>1742100348</GUID>      <!-- Heated Military Uniforms - Menu Production Chain -->
-      <Text>Heated Military Uniforms</Text>
+      <Text>Vestes militaires</Text>
     </Text>
     <Text>
       <GUID>1742100349</GUID>      <!-- Heated Military Uniforms - Menu Production Chain - Description -->
-      <Text>Produces Heated Military Uniforms</Text>
+      <Text>Produit des vestes militaires</Text>
     </Text>
     <Text>
       <GUID>1742100350</GUID>
@@ -1539,35 +1539,35 @@
     </Text>
     <Text>
       <GUID>1742100374</GUID>      <!-- Saltpetre Bed - Farmfield -->
-      <Text>Saltpetre Bed</Text>
+      <Text>Lit de saltpêtre</Text>
     </Text>
     <Text>
       <GUID>1742100375</GUID>      <!-- Saltpetre Bed - Farmfield - Description -->
-      <Text>Open bed where saltpetre is collected after a really nasty process.</Text>
+      <Text>Lit ouvert où le salpêtre est recueilli après un processus vraiment désagréable.</Text>
     </Text>
     <Text>
       <GUID>1742100376</GUID>      <!-- Nitrary Shed - Module -->
-      <Text>Nitrary Shed</Text>
+      <Text>Dépôt</Text>
     </Text>
     <Text>
       <GUID>1742100377</GUID>      <!-- Nitrary Shed - Module - Description -->
-      <Text>Shed that stores the goods for the Nitrary. Without the shed the building can not produce any goods.</Text>
+      <Text>Dépôt qui stocke les marchandises pour le saltpêtre. Sans le dépôt, le bâtiment ne peut pas produire de marchandises..</Text>
     </Text>
     <Text>
       <GUID>1742100378</GUID>      <!-- Nitrary Debuff - GuildhouseBuff -->
-      <Text>Nitrary Debuff</Text>
+      <Text>Pas de dépôt</Text>
     </Text>
     <Text>
       <GUID>1742100379</GUID>      <!-- Nitrary Shed Buff - GuildhouseBuff - Description -->
-      <Text>Nitrary Shed Buff</Text>
+      <Text>Dépôt</Text>
     </Text>
     <Text>
       <GUID>1742100380</GUID>      <!-- Horse Training Ground - Module -->
-      <Text>Horse Training Ground</Text>
+      <Text>Site d'entrainement des chevaux</Text>
     </Text>
     <Text>
       <GUID>1742100381</GUID>      <!-- Horse Training Ground - Module - Description -->
-      <Text>Training ground for horses. Module for the stables.</Text>
+      <Text>Site d'entrainement des chevaux. Module d'écurie.</Text>
     </Text>
   </ModOp>
 </ModOps>
