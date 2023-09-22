@@ -3,83 +3,83 @@
   <ModOp Type="add" Path="/TextExport/Texts">
     <Text>
       <GUID>1742100000</GUID>      <!-- Soldiers - PopulationLevel7 -->
-      <Text>Soldiers</Text>
+      <Text>Soldats</Text>
     </Text>
     <Text>
       <GUID>1742100001</GUID>
-      <Text>Encampment</Text>
+      <Text>Campement</Text>
     </Text>
     <Text>
       <GUID>1742100002</GUID>
-      <Text>Basic residences of the soldiers. Group of tents where soldiers sleep and gather.</Text>
+      <Text>Résidences basique pour soldats. Des groupes de tentes où les soldats dorment et se rassemblent.</Text>
     </Text>
     <Text>
       <GUID>1742100003</GUID>
-      <Text>Barracks</Text>
+      <Text>Casernes</Text>
     </Text>
     <Text>
       <GUID>1742100004</GUID>
-      <Text>Upgraded and more advanced residences of soldiers.</Text>
+      <Text>Résidences de soldats améliorées et plus perfectionnées.</Text>
     </Text>
     <Text>
       <GUID>1742100005</GUID>
-      <Text>Soldiers Workforce</Text>
+      <Text>Effectif de soldats</Text>
     </Text>
     <Text>
       <GUID>1742100006</GUID>      <!-- Officers - PopulationLevel7 -->
-      <Text>Officers</Text>
+      <Text>Officiers</Text>
     </Text>
     <Text>
       <GUID>1742100007</GUID>
-      <Text>Officers Quarters</Text>
+      <Text>Quartiers d'officiers</Text>
     </Text>
     <Text>
       <GUID>1742100008</GUID>
-      <Text>Residences of the officers.</Text>
+      <Text>Résidences des officiers.</Text>
     </Text>
     <Text>
       <GUID>1742100009</GUID>
-      <Text>Officers Workforce</Text>
+      <Text>Effectif d'officiers</Text>
     </Text>
     <Text>
       <GUID>1742100010</GUID>      <!-- Military Engineers - PopulationLevel7 -->
-      <Text>Military Engineers</Text>
+      <Text>Ingénieurs militaires</Text>
     </Text>
     <Text>
       <GUID>1742100011</GUID>
-      <Text>Military Engineers Quarters</Text>
+      <Text>Quartiers d'ingénieurs militaires</Text>
     </Text>
     <Text>
       <GUID>1742100012</GUID>
-      <Text>Residences of the military engineers.</Text>
+      <Text>Résidences d'ingénieurs militaires.</Text>
     </Text>
     <Text>
       <GUID>1742100013</GUID>
-      <Text>Military Engineers Workforce</Text>
+      <Text>Effectif d'ingénieurs militaires</Text>
     </Text>
     <Text>
       <GUID>1742100014</GUID>      <!-- Military (OW) - PopulationGroup7 -->
-      <Text>Military Personnel</Text>
+      <Text>Personnel militaire</Text>
     </Text>
     <Text>
       <GUID>1742100015</GUID>      <!-- Soldiers - ProductList -->
-      <Text>Soldiers ProductList</Text>
+      <Text>Liste de produits des soldats</Text>
     </Text>
     <Text>
       <GUID>1742100016</GUID>      <!-- Officers - ProductList -->
-      <Text>Officers ProductList</Text>
+      <Text>Liste de produits des officiers</Text>
     </Text>
     <Text>
       <GUID>1742100017</GUID>      <!-- Military Engineers - ProductList -->
-      <Text>Military Engineers ProductList</Text>
+      <Text>Liste de produits des ingénieurs militaires</Text>
     </Text>
     <Text>
       <GUID>1742100018</GUID>
-      <Text>Military Category Menu</Text>
+      <Text>Menu Catégorie Militaire</Text>
     </Text>
     <Text>
       <GUID>1742100019</GUID>
-      <Text>All Military Residences</Text>
+      <Text>Toutes les résidences militaires</Text>
     </Text>
     <Text>
       <GUID>1742100020</GUID>      <!-- Canteen (OW) - Building -->
@@ -967,63 +967,63 @@
     </Text>
     <Text>
       <GUID>1742100231</GUID>      <!-- Soldiers Angry - Moodtext -->
-      <Text>Angry Soldier</Text>
+      <Text>Soldat en colère</Text>
     </Text>
     <Text>
       <GUID>1742100232</GUID>      <!-- Soldiers Unhappy - Moodtext -->
-      <Text>Unhappy Soldier</Text>
+      <Text>Soldier insatisfait</Text>
     </Text>
     <Text>
       <GUID>1742100233</GUID>      <!-- Soldiers Neutral - Moodtext -->
-      <Text>Content Soldier</Text>
+      <Text>Soldat satisfait</Text>
     </Text>
     <Text>
       <GUID>1742100234</GUID>      <!-- Soldiers Happy - Moodtext -->
-      <Text>Happy Soldier</Text>
+      <Text>Soldat heureux</Text>
     </Text>
     <Text>
       <GUID>1742100235</GUID>      <!-- Soldiers Euphoric - Moodtext -->
-      <Text>Euphoric Soldier</Text>
+      <Text>Soldat euphorique</Text>
     </Text>
     <Text>
       <GUID>1742100236</GUID>      <!-- Officers Angry - Moodtext -->
-      <Text>Angry Officer</Text>
+      <Text>Officier en colère</Text>
     </Text>
     <Text>
       <GUID>1742100237</GUID>      <!-- Officers Unhappy - Moodtext -->
-      <Text>Unhappy Officer</Text>
+      <Text>Officier insatisfait</Text>
     </Text>
     <Text>
       <GUID>1742100238</GUID>      <!-- Officers Neutral - Moodtext -->
-      <Text>Content Officer</Text>
+      <Text>Officier satisfait</Text>
     </Text>
     <Text>
       <GUID>1742100239</GUID>      <!-- Officers Happy - Moodtext -->
-      <Text>Happy Officer</Text>
+      <Text>Officier heureux</Text>
     </Text>
     <Text>
       <GUID>1742100240</GUID>      <!-- Officers Euphoric - Moodtext -->
-      <Text>Euphoric Officer</Text>
+      <Text>Officier euphorique</Text>
     </Text>
     <Text>
       <GUID>1742100241</GUID>      <!-- Military Engineers Angry - Moodtext -->
-      <Text>Angry Military Engineer</Text>
+      <Text>Ingénieur militaire en colère</Text>
     </Text>
     <Text>
       <GUID>1742100242</GUID>      <!-- Military Engineers Unhappy - Moodtext -->
-      <Text>Unhappy Military Engineer</Text>
+      <Text>Ingénieur militaire insatisfait</Text>
     </Text>
     <Text>
       <GUID>1742100243</GUID>      <!-- Military Engineers Neutral - Moodtext -->
-      <Text>Content Military Engineer</Text>
+      <Text>Ingénieur militaire satisfait</Text>
     </Text>
     <Text>
       <GUID>1742100244</GUID>      <!-- Military Engineers Happy - Moodtext -->
-      <Text>Happy Military Engineer</Text>
+      <Text>Ingénieur militaire heureux</Text>
     </Text>
     <Text>
       <GUID>1742100245</GUID>      <!-- Military Engineers Euphoric - Moodtext -->
-      <Text>Euphoric Military Engineer</Text>
+      <Text>Ingénieur militaire euphorique</Text>
     </Text>
     <Text>
       <GUID>1742100246</GUID>      <!-- Ammunition Factory Shell Ammunition - Building -->
